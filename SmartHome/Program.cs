@@ -8,7 +8,7 @@
             HeatingSystem heating = new HeatingSystem();
             SecuritySystem security = new SecuritySystem();
 
-            Console.WriteLine("Добро пожаловать в систему Умный дом!");
+            Console.WriteLine("Добро пожаловать!");
 
             bool work = true;
 
