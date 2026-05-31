@@ -14,7 +14,7 @@
 
             while (work)
             {
-                Console.WriteLine("УМНЫЙ ДОМ");
+                Console.WriteLine("СИСТЕМА УМНЫЙ ДОМ");
                 Console.WriteLine("1 - Включить свет");
                 Console.WriteLine("2 - Выключить свет");
                 Console.WriteLine("3 - Показать температуру");
