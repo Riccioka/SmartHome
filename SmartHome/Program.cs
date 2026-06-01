@@ -8,7 +8,7 @@
             HeatingSystem heating = new HeatingSystem();
             SecuritySystem security = new SecuritySystem();
 
-            Console.WriteLine("Добро пожаловать!");
+            Console.WriteLine("Добро пожаловать! (Clone)");
 
             bool work = true;
 
